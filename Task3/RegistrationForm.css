@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(254, 116, 116);
+}
+
+table{
+margin: 50px;
+padding: 50px;
+ text-align: center;
+ background: rgb(227, 129, 8);
+ color: rgb(0,0,0);
+}
+#age,#address,#email,#lname,#fname{
+    margin: 5px;
+ padding: 5px;
+ width: 200px;
+ font-size: large;
+}
+
+#Show th, #Show td{
+ padding: 30px;
+
+}
+
+#btn {
+    width: 40%;
+    background-color: rgb(12, 12, 240);
+}
+.entity{
+    background-color: aqua;
+}
+#btna :hover{
+    color: brown;
+}
+#name{
+    width: 150px;
+}
